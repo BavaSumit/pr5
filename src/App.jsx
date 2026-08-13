@@ -1,5 +1,5 @@
 import React from "react";
-import Counter from "./ Passwordinput ";
+import Counter from "./Passwordinput";
 
 function App() {
 return (
