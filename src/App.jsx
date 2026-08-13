@@ -4,7 +4,7 @@ import Counter from "./Passwordinput";
 function App() {
 return (
 <div>
-<PasswordInput />
+<PasswordInput/>
 </div>
 );
 }
